@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Humay98
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning analysing in r
-- 💞️ I’m looking to collaborate on professional data scientist
-- 📫 How to reach me ...humaya81@gmail.com
+- 👋 Hi, I’m Humay Hasilli
+- 👀 I’m professional in Data Science 
+- 💞️ I will share my projects with you
+
 
 <!---
 Humay98/Humay98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
